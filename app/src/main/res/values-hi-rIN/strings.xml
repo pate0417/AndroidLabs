@@ -3,4 +3,8 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_massage">नमस्ते दुनिया</string>
     <string name="ButtonText">मैं एक बटन </string>
+    <string name="Login"> प्रयोक्ता </string>
+    <string name="Hint"> प्रयोक्ता नाम </string>
+
+
 </resources>
