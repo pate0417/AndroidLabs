@@ -12,6 +12,7 @@
 
 
     <RadioButton
+        android:id="@+id/RB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="1"
@@ -20,6 +21,7 @@
 
         />
     <CheckBox
+        android:id="@+id/CB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="1"
@@ -28,18 +30,20 @@
         />
 
     <Switch
+        android:id="@+id/ST"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="1"
         android:text="@string/Switch"
-
         />
 
     <ImageButton
+        android:id="@+id/IB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_columnWeight="1"
         android:layout_gravity="fill"
+        android:onClick="takePicture"
         android:src="@android:drawable/ic_menu_camera" />
 
 </GridLayout>

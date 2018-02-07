@@ -11,5 +11,11 @@
     <string name="Switch">What does this do?</string>
     <string name="button">Login</string>
 
+    <string name="dialog_title">Alert!</string>
+    <string name="dialog_Message">Do you want to continue!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
 
 </resources>

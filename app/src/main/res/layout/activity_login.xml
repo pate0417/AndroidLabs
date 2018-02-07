@@ -8,12 +8,13 @@
     tools:context="com.example.priya.androidlabs.LoginActivity">
 
     <TextView
+        android:id="@+id/Login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/Login"/>
 
     <EditText
-        android:id="@+id/EmailField"
+        android:id="@+id/EditLoginName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Login Name"

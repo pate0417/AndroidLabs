@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndroidLabs</string>
-    <string name="hello_massage">नमस्ते दुनिया</string>
-    <string name="ButtonText">मैं एक बटन </string>
-    <string name="Login"> प्रयोक्ता </string>
-    <!--<string name="Hint"> प्रयोक्ता नाम </string>-->
+<string name="app_name">AndroidLabs</string>
+<string name="hello_massage">नमस्ते दुनिया</string>
+<string name="ButtonText">मैं एक बटन </string>
+<string name="Login"> प्रयोक्ता </string>
+<!--<string name="Hint"> प्रयोक्ता नाम </string>-->
+<string name="dialog_title">चेतावनी!</string>
+<string name="dialog_Message">क्या आप जारी रखना चाहते हैं!</string>
 
 
 </resources>
