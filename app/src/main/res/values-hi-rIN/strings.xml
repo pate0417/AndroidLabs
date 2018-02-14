@@ -8,5 +8,11 @@
 <string name="dialog_title">चेतावनी!</string>
 <string name="dialog_Message">क्या आप जारी रखना चाहते हैं!</string>
 
+<string name="Chat">बातचीत शुरू कीजिए</string>
+
+
+    <string name="startChatText">बातचीत शुरू कीजिए</string>
+    <string name="sendButtonText">भेजना</string>
+
 
 </resources>

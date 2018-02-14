@@ -88,7 +88,6 @@ public class ListItemsActivity extends Activity {
               }
 
   }
-
     protected void onResume() {
         super.onResume();
         Log.i(ACTIVITY_NAME, "In onResume");
