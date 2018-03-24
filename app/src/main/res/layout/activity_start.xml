@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.priya.androidlabs.StartActivity">
@@ -30,11 +31,15 @@
      android:id="@+id/StartChat"
      android:layout_width="wrap_content"
      android:layout_height="wrap_content"
-     android:text="StartChat"
+     android:text="StartChat"  />
+
+    <Button
+        android:id="@+id/WeatherForecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WeatherForecast"
+        />
 
 
-     />
 
-
-
-</android.support.constraint.ConstraintLayout>
+</LinearLayout>
