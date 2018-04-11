@@ -18,6 +18,8 @@
 
     <string name="startChat">Start Chat</string>
     <string name="sendButtonText">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+
 
 
 </resources>
